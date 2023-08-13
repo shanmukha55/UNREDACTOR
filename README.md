@@ -1,7 +1,4 @@
-## Gnaneswar Kolla
 
-## Project Title
-### CS5293,Spring 2022 Project 3
 
 ## Project Description
 This project unredacts sensitive information like names from tsv file and calculates precision,accuracy and f1 scores.
